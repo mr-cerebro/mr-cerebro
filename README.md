@@ -6,6 +6,6 @@
 
 Nada no mundo pode superar a persistência. O talento não supera. Não há nada mais comum do que talento fracassados. A genialidade não supera. Um génio desconhecido é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. A persistência e a determinação são muito poderosas.
 
-<a href="https://github.com/mr-cerebro"><img scr="github.png" alt="GitHub, Paulo Pessoa"></a>
+[![GitHub](/assets/images/shiprock.jpg "GitHub, Paulo Pessoa")](<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>)
 
 
