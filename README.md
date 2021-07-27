@@ -8,6 +8,7 @@ Nada no mundo pode superar a persistência. O talento não supera. Não há nada
 
 <a href="https://github.com/mr-cerebro"><img src="https://img.shields.io/github/followers/mr-cerebro?label=github&logo=github&style=for-the-badge"></a>
 <a href="https://twitter.com/PauloPe65041263"><img src="https://img.shields.io/twitter/follow/PauloPe65041263?label=twitter&logo=twitter&style=for-the-badge"></a>
-<a href="https://www.facebook.com/paulo1pessoa/"><img src="https://img.shields.io/twitter/url?label=facebook&logo=facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fpaulo1pessoa%2F"></a>
+<a href="https://www.facebook.com/paulo1pessoa/"><img src="https://img.shields.io/facebook/url?label=facebook&logo=facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fpaulo1pessoa%2F"></a>
+<a href="https://www.linkedin.com/in/paulo-pessoa-2777841b2/"><img src="https://img.shields.io/linkedin/url?label=LinkendIn&logo=LinkendIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpaulo-pessoa-2777841b2%2F"></a>
 
 
