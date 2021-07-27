@@ -13,10 +13,4 @@ Nada no mundo pode superar a persistência. O talento não supera. Não há nada
 <a href="https://www.linkedin.com/in/paulo-pessoa-2777841b2/"><img src="https://img.shields.io/twitter/url?label=LinkendIn&logo=LinkendIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpaulo-pessoa-2777841b2%2F"></a>
 <a href="https://app.rocketseat.com.br/me/paulo-pessoa-02219"><img src="https://img.shields.io/twitter/url?label=Rocketseat&logo=Rocketseat&style=for-the-badge&url=https%3A%2F%2Fapp.rocketseat.com.br%2Fme%2Fpaulo-pessoa-02219"></a>
 
-# Ferramentas
-
-## Com Experiência
-
-<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/vitaly-gorbachev" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
-
 
