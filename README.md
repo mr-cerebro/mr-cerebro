@@ -17,6 +17,6 @@ Nada no mundo pode superar a persistência. O talento não supera. Não há nada
 
 ## Com Experiência
 
-<img src="bootstrap.svg">
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/vitaly-gorbachev" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
 
 
