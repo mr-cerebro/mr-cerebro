@@ -17,5 +17,5 @@ Nada no mundo pode superar a persistência. O talento não supera. Não há nada
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-cerebro&theme=tokyonight&border=ffffff" alt="Streak" title="Streak" width="440px" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloengcomp&layout=compact&theme=tokyonight)](https://github.com/mr-cerebro/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloengcomp&layout=compact&theme=tokyonight)](https://github.com/mr-cerebro/github-readme-stats)
 
