@@ -1,5 +1,7 @@
 # Sobre mim
 
+## Front-end JR & UI Designer JR
+
 > Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 >
 >> Apaixonado por educação e mudar vida das pessoas através de programação.
