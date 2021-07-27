@@ -13,4 +13,9 @@ Nada no mundo pode superar a persistência. O talento não supera. Não há nada
 <a href="https://www.linkedin.com/in/paulo-pessoa-2777841b2/"><img src="https://img.shields.io/twitter/url?label=LinkendIn&logo=LinkendIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpaulo-pessoa-2777841b2%2F"></a>
 <a href="https://app.rocketseat.com.br/me/paulo-pessoa-02219"><img src="https://img.shields.io/twitter/url?label=Rocketseat&logo=Rocketseat&style=for-the-badge&url=https%3A%2F%2Fapp.rocketseat.com.br%2Fme%2Fpaulo-pessoa-02219"></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-cerebro&show_icons=true&theme=tokyonight)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-cerebro&theme=tokyonight&border=ffffff" alt="Streak" title="Streak" width="440px" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloengcomp&layout=compact&theme=tokyonight)](https://github.com/mr-cerebro/github-readme-stats)](https://github.com/mr-cerebro/github-readme-stats)
 
