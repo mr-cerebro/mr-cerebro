@@ -19,3 +19,23 @@ Nada no mundo pode superar a persistência. O talento não supera. Não há nada
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloengcomp&layout=compact&theme=tokyonight)](https://github.com/mr-cerebro/github-readme-stats)
 
+<div align="center">
+
+# Mais Detalhes - More Details 💻
+
+**Linguagens dominantes** \
+![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-cerebro&layout=compact&theme=radical&langs_count=20)
+
+**Meu resumo do GitHub** \
+![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=mr-cerebro&show_icons=true&theme=merko)
+  
+**Meu estado de sequência no GitHub** \
+![streak-status](https://github-readme-streak-stats.herokuapp.com/?user=mr-cerebro&theme=neon-dark)
+
+**Conquistas - Trophies** \
+![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=mr-cerebro&column=7&theme=gruvbox)
+
+**Contagem de visitas ao perfil - Counting visitors on profile** \
+![countvisitors](https://profile-counter.glitch.me/mr-cerebro/count.svg)
+
+</div>
