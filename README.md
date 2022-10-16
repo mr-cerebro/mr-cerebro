@@ -22,7 +22,7 @@ Nada no mundo pode superar a persistência. O talento não supera. Não há nada
 # Mais Detalhes - More Details 💻
 
 **Linguagens dominantes** \
-![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-cerebro&layout=compact&theme=radical&langs_count=20)
+![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-cerebro&layout=compact&theme=radical&langs_count=21)
 
 **Meu resumo do GitHub** \
 ![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=mr-cerebro&show_icons=true&theme=merko)
